@@ -1,0 +1,55 @@
+.Container{
+  padding: 3rem;
+}
+.H4{
+  padding: 0rem 3rem;
+  color: var(--sub-text)!important;
+}
+
+.Image{
+  position: relative;
+  max-width: 640px;
+  left: 70%;
+  margin: 2.5rem 0rem 4.5rem 0rem;
+}
+.Item  img{
+  position: relative;
+  left: 27%;
+  max-width: 40%;
+  height: 20%;
+  border: 1px solid #000;
+  margin: 3.5rem 0rem;
+}
+.Item h2{
+  margin: 1.5rem 0rem;
+  color: var(--text);
+}
+.Item h3{
+  margin: .5rem 0rem;
+  margin-left: 1rem;
+  color: var(--text);
+}
+.Item h4{
+  margin: .25rem 0rem;
+  margin-left: .75rem;
+  color: var(--text);
+}
+.Item p{
+  margin-left: .5rem;
+}
+.Item li {
+  margin-left: 2.5rem;
+}
+.Item a {
+  color: var(--link)
+}
+.Name{
+  margin-top: 2rem;
+  font-size: 24px;
+  color: var(--sub-text)!important;
+}
+.Biografiph{
+  margin-left: .5rem;
+  font-size: 16px;
+  color: var(--sub-text)!important;
+}
